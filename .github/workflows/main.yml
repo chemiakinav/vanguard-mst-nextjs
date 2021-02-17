@@ -33,11 +33,11 @@ jobs:
           # If not specified, Semantic Release will use its default branches
           # configuration, specified in the API documentation:
           # https://github.com/semantic-release/semantic-release/blob/master/docs/usage/configuration.md#branches
-          release-branches: ['main']
+          release-branches: '["main"]'
           # Commit the new line separated glob patterns to the repository as part
           # of the release process.
           commit-assets: |
-            ./dist
+            ./
           # Run semantic release in dry-run mode.
           # Default: false
           dry-run: true
