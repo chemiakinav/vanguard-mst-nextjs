@@ -37,7 +37,7 @@ jobs:
           # Commit the new line separated glob patterns to the repository as part
           # of the release process.
           commit-assets: |
-            /
+            ./dist
           # Run semantic release in dry-run mode.
           # Default: false
           dry-run: true
