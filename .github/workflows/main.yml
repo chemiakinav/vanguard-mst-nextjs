@@ -36,8 +36,8 @@ jobs:
           release-branches: '["main"]'
           # Commit the new line separated glob patterns to the repository as part
           # of the release process.
-          commit-assets: |
-            ./
+          #commit-assets: |
+          #  ./
           # Run semantic release in dry-run mode.
           # Default: false
           dry-run: true
@@ -46,8 +46,8 @@ jobs:
           # Default: false
           node-module: true
           # Attach the new line separated listed glob patterns to the release.
-          release-assets: |
-            ./generated/my-asset.tar.gz
+          #release-assets: |
+          #  ./generated/my-asset.tar.gz
           # Configure the semantic release commit analyzer rules that are used to
           # determine the correct release version.
           # https://www.npmjs.com/package/@semantic-release/commit-analyzer#releaserules
