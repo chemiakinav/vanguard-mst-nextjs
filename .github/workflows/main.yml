@@ -62,4 +62,4 @@ jobs:
           # Specify additional semantic-release plugins to install. Accepts packages
           # in typical package.json format.
           additional-plugins:
-            '{ "@google/semantic-release-replace-plugin": "^4.0.2" }'
+            '{ "@google/semantic-release-replace-plugin": "1.0.2" }'
