@@ -40,11 +40,11 @@ jobs:
           #  ./
           # Run semantic release in dry-run mode.
           # Default: false
-          dry-run: true
+          dry-run: false
           # Bump the node module version and commit the changed package files to the
           # repository as part of the release process.
           # Default: false
-          node-module: true
+          node-module: false
           # Attach the new line separated listed glob patterns to the release.
           #release-assets: |
           #  ./generated/my-asset.tar.gz
