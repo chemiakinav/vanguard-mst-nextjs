@@ -1,6 +1,6 @@
 {
   "name": "vanguard-mst",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "scripts": {
     "dev": "next",
     "build": "next build",
