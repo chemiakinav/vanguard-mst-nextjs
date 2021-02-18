@@ -58,7 +58,7 @@ jobs:
           # https://semantic-release.gitbook.io/semantic-release/usage/configuration#configuration-file.
           # Provided configuration will be shallow merged with defaults. Supported
           # formats are YALM or CommonJS.
-          # config-file: ./package.json
+          config-file: ./package.json
           # Specify additional semantic-release plugins to install. Accepts packages
           # in typical package.json format.
           # additional-plugins:
