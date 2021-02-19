@@ -1,3 +1,15 @@
+## [1.1.7](https://github.com/chemiakinav/vanguard-mst-nextjs/compare/v1.1.6...v1.1.7) (2021-02-19)
+
+### Bug Fixes
+
+- space ([241fed0](https://github.com/chemiakinav/vanguard-mst-nextjs/commit/241fed063950d023936df3fc967ee38437ff9147))
+
+### Other
+
+- publish ([2ce3d6f](https://github.com/chemiakinav/vanguard-mst-nextjs/commit/2ce3d6fbbb702ebe97e4406a08b732f661bdf3f7))
+- Merge branch 'main' of github.com:chemiakinav/vanguard-mst-nextjs into main ([ad47c1c](https://github.com/chemiakinav/vanguard-mst-nextjs/commit/ad47c1cf853b8a5d731c41a46f7323af0258b5c7))
+- no-release: no release ([72b2cfa](https://github.com/chemiakinav/vanguard-mst-nextjs/commit/72b2cfa23608b7fadcaa02a69190db72f88dbb5f))
+
 # [1.1.0](https://github.com/chemiakinav/vanguard-mst-nextjs/compare/v1.0.6...v1.1.0) (2021-02-19)
 
 ### Features
