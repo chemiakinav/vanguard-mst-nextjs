@@ -26,3 +26,12 @@ jobs:
         uses: ridedott/release-me-action@master
         with:
           node-module: true
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+        registry-url: "https://npm.pkg.github.com"
+      - name: Publish to GitHub Packages
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN_WORKAROUND }}
+        run: |
+          npm publish
