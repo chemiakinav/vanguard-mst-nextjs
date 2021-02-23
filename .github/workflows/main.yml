@@ -18,8 +18,4 @@ jobs:
         name: Release
         uses: ridedott/release-me-action@master
         with:
-          node-module: true
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
-        with:
-          registry-url: "https://npm.pkg.github.com"
+          dry-run: true
