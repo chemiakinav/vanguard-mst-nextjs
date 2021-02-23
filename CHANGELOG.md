@@ -1,3 +1,10 @@
+## [1.1.9](https://github.com/chemiakinav/vanguard-mst-nextjs/compare/v1.1.8...v1.1.9) (2021-02-23)
+
+### Bug Fixes
+
+- no dry (#5) ([aaccb4b](https://github.com/chemiakinav/vanguard-mst-nextjs/commit/aaccb4b79c269be75baa1cc5b2a0d0b82b37a11e)), closes [#5](https://github.com/chemiakinav/vanguard-mst-nextjs/issues/5)
+- Test ([f823db5](https://github.com/chemiakinav/vanguard-mst-nextjs/commit/f823db528f8a7ed2bdea32b8f69c2110a3e8f83b))
+
 ## [1.1.8](https://github.com/chemiakinav/vanguard-mst-nextjs/compare/v1.1.7...v1.1.8) (2021-02-20)
 
 ### Bug Fixes
